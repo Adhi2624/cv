@@ -1,0 +1,240 @@
+
+
+
+img{
+    
+    background-color: yellow;
+    
+    
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 550px;
+    border-radius: 25px 50px 30px 25px;
+  box-shadow: 5px 5px 2px black;
+  
+     
+
+}
+
+.profile{
+    position: relative;
+    border-radius: 90px;
+    left: 40px;
+ bottom: 1090px;
+    
+    
+    
+}
+
+.profile img{
+    border-radius: 150px;
+    box-shadow: none;
+    
+    
+}
+
+
+.box{
+ position: relative;    
+ left: 550px;
+ bottom: 925px;
+    width: 690px;
+    height: 160px;
+  padding: 10px;
+  background-color: gray;
+     box-shadow: 2px 2px 2px black inset;
+  border-radius: 25px 50px 0px 0px;
+    
+    
+}
+
+.veline {
+  border-left: 4px solid yellow;
+    position: relative;
+ left: 779px;
+ bottom: 1340px;
+    width: 0px;
+    height: 150px;
+    
+}
+
+.name{
+    position: relative;
+    bottom: 1480px;
+    left:820px;
+    color: black;
+}
+
+.horizontal{
+    position: relative;    
+ left: 550px;
+ bottom: 1450px;
+    width:245px;
+    height: 622px;
+  padding: 10px;
+  background-color: gray;
+     box-shadow: 2px 0px 2px black inset;
+    border-radius: 0px 0px 0px 25px;
+
+    
+}
+
+.name h2{
+    word-spacing: 2px;
+}
+
+.about{
+    position: relative;
+    left:565px;
+    bottom: 2100px;
+    height: 500px;
+    width:190px;
+            
+}
+.about h4{
+    text-align: center
+}
+
+.about a{
+    position: relative;
+    left:2px;
+    bottom:39.7px;
+    color: black;
+    text-decoration: none
+}
+
+    
+.about span{
+    position: relative;
+    left: 0px;
+    
+    bottom:15px;
+    
+    
+}  
+
+.about logo{
+    
+}
+    
+
+
+.about pre{
+    position: relative;
+    bottom: 50px;
+    font-size: 11pxl;
+    line-height: 1.;
+        
+        
+}
+.mailid{
+    position: relative;
+    bottom:36px;
+}
+.maillogo{
+    position: relative;
+    bottom:-8px;
+}
+
+.skill{
+    position: relative;
+    left: 565px;
+    bottom: 2430px;
+    height: 500px;
+    width:245px;
+}
+
+.skill h3{
+    text-align: center;
+    
+}
+
+
+.skill ul{
+    left: 10px;
+    
+     
+}
+
+
+
+
+
+.certifications{
+    
+    position: relative;
+    left: 833px;
+    bottom: 3650px;
+    height: 100px;
+    width:350px;
+    
+    
+}
+
+.certification p{
+    text-align: center;
+}
+
+.experience{
+    position: relative;
+    left: 833px;
+    bottom: 3650px;
+    height: 100px;
+    width:400px;
+}
+.skilltechnical{
+    position: relative;
+    left: 40px;
+}
+
+
+.language{
+    position: relative;
+    left: 833px;
+    bottom: 3650px;
+    height: 1000px;
+    width:350px;
+    
+}
+
+
+.table{
+    
+}
+
+
+.table table{
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+
+
+.table th{
+    background-color: gray;
+}
+
+.hobbyskill{
+    
+    position: relative;
+    left:570px;
+    bottom: 2800px;
+    height: 500px;
+    width:190px;
+    
+}
+
+.hobbyskill h3{
+    position: relative;
+    text-align: center;
+}
+
+.hobbyskill ul{
+    position: relative;
+    left: 30px;
+}
+    
+   
+
+
